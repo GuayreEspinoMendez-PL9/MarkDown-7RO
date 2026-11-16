@@ -354,68 +354,68 @@ Esta sección utiliza expresiones matemáticas para describir métricas que pued
 
 La latencia representa el tiempo transcurrido entre el envío y la recepción de un mensaje.
 
-En línea: una latencia baja mejora la sensación de comunicación instantánea, es decir, \(L = t_{\text{recepción}} - t_{\text{envío}}\).
+En línea: una latencia baja mejora la sensación de comunicación instantánea, es decir, $L = t_{\text{recepción}} - t_{\text{envío}}$.
 
 En bloque:
+
 $$
-\[
 L_{\text{media}} = \frac{1}{n}\sum_{i=1}^{n}
 (t_{\text{recepción},i}-t_{\text{envío},i})
-\]
 $$
+
 Donde \(n\) es el número de mensajes analizados y \(L\) se expresa en milisegundos o segundos.
 
 ## 2. Porcentaje de entrega
 
 Permite calcular qué proporción de mensajes enviados ha sido entregada correctamente.
+
 $$
-\[
 P_{\text{entrega}} =
 \frac{M_{\text{entregados}}}{M_{\text{enviados}}}\times 100
-\]
 $$
+
 Por ejemplo, si se entregan 95 de 100 mensajes, el porcentaje de entrega es del 95 %.
 
 ## 3. Porcentaje de lectura
 
 La lectura de mensajes puede analizarse mediante la proporción de mensajes leídos respecto a los entregados:
+
 $$
-\[
 P_{\text{lectura}} =
 \frac{M_{\text{leídos}}}{M_{\text{entregados}}}\times 100
-\]
 $$
+
 Esta métrica es útil para estudiar la interacción con anuncios o comunicaciones docentes.
 
 ## 4. Capacidad de transmisión
 
 El rendimiento de transferencia de datos puede expresarse como:
+
 $$
-\[
 R = \frac{D}{T}
-\]
 $$
+
 Donde \(D\) es la cantidad de datos transmitidos y \(T\) el tiempo empleado. El resultado puede expresarse en bytes/s o MB/s.
 
 ## 5. Disponibilidad del servicio
 
 La disponibilidad mide qué proporción del tiempo total un servicio permanece operativo:
+
 $$
-\[
 A = \frac{T_{\text{operativo}}}
 {T_{\text{total}}}\times 100
-\]
 $$
+
 Por ejemplo, una disponibilidad teórica del 99,9 % representa un tiempo de inactividad aproximado del 0,1 % del periodo considerado.
 
 ## 6. Tamaño de transferencia de archivos
 
 Si un archivo de tamaño \(S\) se divide en bloques de tamaño \(B\), el número de bloques necesarios es:
+
 $$
-\[
 N_{\text{bloques}} = \left\lceil \frac{S}{B} \right\rceil
-\]
 $$
+
 Esta expresión ayuda a razonar sobre la transferencia de adjuntos grandes y la sincronización por bloques.
 
 ## Diagrama de planificación
