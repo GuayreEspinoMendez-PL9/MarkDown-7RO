@@ -344,7 +344,7 @@ npm run ios
 
 ---
 
-# Modelos, fórmulas y diagramas
+# Modelos, fórmulas y diagramas de parte de mi amigo Geminis 🤍
 
 [Volver al índice](#índice)
 
