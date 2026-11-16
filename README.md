@@ -248,7 +248,7 @@ stateDiagram-v2
 La siguiente imagen es ilustrativa y no representa una captura exacta de la interfaz de TuChat.
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1611746872915-64382b5c76da?auto=format&fit=crop&w=1000&q=80" alt="Ejemplo ilustrativo de una conversación desde un teléfono" width="70%">
+  <img width="275" height="278" alt="Screenshot_20261110-182313_Instagram" src="https://github.com/user-attachments/assets/15e00535-3580-4c4f-a99c-0a934170439f" />
 </p>
 
 El logotipo local del proyecto se encuentra en [`tuchat/assets/images/logo.png`](tuchat/assets/images/logo.png "Logotipo incluido en el repositorio").
