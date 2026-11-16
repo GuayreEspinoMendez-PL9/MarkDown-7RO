@@ -63,7 +63,7 @@ La aplicación está publicada en [tu-chat-pl-9.vercel.app](https://tu-chat-pl-9
 ### Una experiencia multiplataforma
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1000&q=80" alt="Personas colaborando mediante dispositivos digitales" width="80%">
+  <img width="735" height="723" alt="lobo" src="https://github.com/user-attachments/assets/85536d3c-d679-4192-80ef-747123c69e86" />
 </p>
 
 La interfaz está pensada para que una conversación pueda consultarse tanto desde un ordenador como desde un teléfono móvil.
