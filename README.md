@@ -6,7 +6,7 @@
 
 <a id="inicio"></a>
 <div align="center">
-  <img src="tuchat/assets/images/logo.png" alt="Logotipo de TuChat" width="150">
+  <img width="243" height="169" alt="logo" src="https://github.com/user-attachments/assets/b0dedfff-4792-46bd-b400-d0b27a4958d9" />
   <h1>TuChat — Comunicación académica en tiempo real</h1>
   <p><strong>Una plataforma de comunicación para conectar a estudiantes, profesorado y centros educativos.</strong></p>
   <p>
