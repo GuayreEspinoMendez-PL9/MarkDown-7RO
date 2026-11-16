@@ -535,5 +535,5 @@ flowchart LR
 <div align="center">
   <hr>
   <p><strong>TuChat-PL9</strong> · Comunicación académica en tiempo real</p>
-  <p><a href="#índice" title="Volver al índice principal">⬆ Volver arriba</a></p>
+  <p><a href="#índice" title="Volver al índice principal">Volver arriba</a></p>
 </div>
