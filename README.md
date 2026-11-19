@@ -529,8 +529,6 @@ flowchart LR
 > «La innovación distingue a un líder de un seguidor».  
 > — Steve Jobs
 
-<!-- Comentario HTML/Markdown: este bloque no aparece en la vista renderizada.
-     Se conserva como ejemplo de comentario dentro del README. -->
 
 <div align="center">
   <hr>
